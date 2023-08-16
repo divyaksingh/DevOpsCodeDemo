@@ -51,6 +51,10 @@
                 <enabled>true</enabled>
             </snapshots>
         </pluginRepository>
+	<pluginRepository>
+            <id>icm</id>
+            <url>https://mvnrepository.com/artifact/org.apache.tomcat.maven/tomcat8-maven-plugin/</url>
+        </pluginRepository>
     </pluginRepositories>
 
 
